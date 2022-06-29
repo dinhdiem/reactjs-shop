@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Covid đi xa",
+      "desc": "typicode",
+      "price": 500000,
+      "sale": 10,
+      "img": "https://i.pinimg.com/originals/74/eb/94/74eb94b0b0e6c1fd3d15817a74db696f.jpg",
+      "slug": "covid-di-xa"
+    },
+    {
+      "id": 6,
+      "name": "Covid đi xa",
+      "desc": "typicode",
+      "price": 500000,
+      "sale": 10,
+      "img": "https://i.pinimg.com/originals/74/eb/94/74eb94b0b0e6c1fd3d15817a74db696f.jpg",
+      "slug": "covid-di-xa"
+    },
+    {
+      "id": 7,
+      "name": "Covid đi xa",
+      "desc": "typicode",
+      "price": 500000,
+      "sale": 10,
+      "img": "https://i.pinimg.com/originals/74/eb/94/74eb94b0b0e6c1fd3d15817a74db696f.jpg",
+      "slug": "covid-di-xa"
+    },
+    {
+      "id": 8,
+      "name": "Covid đi xa",
+      "desc": "typicode",
+      "price": 500000,
+      "sale": 10,
+      "img": "https://i.pinimg.com/originals/74/eb/94/74eb94b0b0e6c1fd3d15817a74db696f.jpg",
+      "slug": "covid-di-xa"
+    },
+    {
+      "name": "abc",
+      "desc": "dev",
+      "price": "5000",
+      "sale": "10",
+      "id": 9
+    },
+    {
+      "name": "abc123",
+      "desc": "dev",
+      "price": "5000",
+      "sale": "10",
+      "id": 10
+    },
+    {
+      "name": "a",
+      "desc": "b@a",
+      "price": "123",
+      "sale": "123",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$agpV8XTUFWx8hbQX5TUUEedJ005yj6iBo9EiIptru3NpsQ8kdlDem",
+      "id": 1
+    }
+  ]
+}
